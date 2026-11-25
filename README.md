@@ -35,11 +35,11 @@
 
 | POS & Fast Checkout | Staff Earnings & Commissions |
 | :---: | :---: |
-| ![POS Screen](Screenshots/Ayarlama Paneli.jpeg) | ![Staff Report](screenshots/staff-report.png) |
+| ![POS Screen](Screenshots/Hızlı-Kasa.jpeg) | ![Staff Report](Screenshots/Personel-Takibi.jpeg) |
 
 | Financial & Expense Analytics | Service & Price Management |
 | :---: | :---: |
-| ![Financial Analytics](screenshots/financial-analytics.png) | ![Settings Panel](screenshots/settings-panel.png) |
+| ![Financial Analytics](Screenshots/Kasa-Durumu.jpeg) | ![Settings Panel](Screenshots/Ayarlama-Paneli.jpeg) |
 
 ---
 
