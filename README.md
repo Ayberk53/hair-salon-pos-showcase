@@ -35,7 +35,7 @@
 
 | POS & Fast Checkout | Staff Earnings & Commissions |
 | :---: | :---: |
-| ![POS Screen](Screenshots\Ayarlama-Paneli.jpeg) | ![Staff Report](screenshots/staff-report.png) |
+| ![POS Screen](Screenshots/Ayarlama Paneli.jpeg) | ![Staff Report](screenshots/staff-report.png) |
 
 | Financial & Expense Analytics | Service & Price Management |
 | :---: | :---: |
